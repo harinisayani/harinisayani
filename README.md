@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/harini-sayani-8a3708276/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harini sayani" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/harika_sayani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="harika_sayani" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/harini_sayani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="harini_sayani" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/harinisayani3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="harinisayani3" height="30" width="40" /></a>
 </p>
 
